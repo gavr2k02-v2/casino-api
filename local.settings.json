@@ -1,0 +1,14 @@
+
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "MONGODB_URL": "mongodb://127.0.0.1:27017",
+    "TOKEN_SECRET": "ewq`$!wgLLeng,swrka613e4",
+    "REDIS_URL": "127.0.0.1:6379"
+  },   
+  "Host": {
+    "CORS": "*"
+  }
+}
+

@@ -1,0 +1,8 @@
+{
+  "bindings": [
+    {
+      "type": "httpTrigger",
+      "route": "utya"
+    }
+  ]
+}

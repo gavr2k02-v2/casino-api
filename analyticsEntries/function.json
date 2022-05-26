@@ -1,0 +1,8 @@
+{
+  "bindings": [
+    {
+      "schedule": "* * * * *",
+      "type": "timerTrigger"
+    }
+  ]
+}
